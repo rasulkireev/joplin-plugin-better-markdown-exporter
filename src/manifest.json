@@ -1,0 +1,18 @@
+{
+	"name": "Better Markdown Exporter",
+	"description": "Markdown Exporter that allows users to select which folder to export, which frontmatter to include and more.",
+	"author": "Rasul Kireev",
+	"homepage_url": "",
+	"repository_url": "",
+
+  "id": "joplin.plugin.rasulkireev.BetterMarkdownExporter",
+	"manifest_version": 1,
+	"app_min_version": "2.0",
+	"version": "1.0.0",
+
+  "keywords": [
+    "markdown",
+    "export",
+    "exporter"
+  ]
+}
